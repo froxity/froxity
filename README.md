@@ -1,5 +1,9 @@
 ### Welcome to my Profile 👋
 
+<p align='center'>
+  <a href="#"><img src="https://badges.pufler.dev/visits/froxity/froxity"></a> awesome people check my profile!
+</p>
+
 ##### Why Froxity?
 - Froxity name come from Froze 🥶 + City 🏙️, but somehow people mistaken it with Frog 🐸 + City 🏙️.
 
