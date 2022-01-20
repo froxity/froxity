@@ -1,10 +1,14 @@
 ### Welcome to my Profile 👋
+
 ##### Why Froxity?
 - Froxity name come from Froze 🥶 + City 🏙️, but somehow people mistaken it with Frog 🐸 + City 🏙️.
 
 ### Bio
+
 **Name**: Ahmad Afiq Azmi
+
 **Current role**: Student (Computer Science in Networking) 📶 at Universiti Malaya 👨🏼‍🎓.
+
 **Goals** 🎯: 
 - Freelance graphic designer & illustrator
 - Full-stack developer
