@@ -15,7 +15,7 @@
 
 **Goals** 🎯: 
 - Freelance graphic designer & illustrator
-- Full-stack developer
+- Network Engineer
 
 **Hobby**:
 
