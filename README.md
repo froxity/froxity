@@ -44,7 +44,7 @@ docker
 3. consul
 4. nomad
 EOF
-[froxity@afiq-pc ~ ]$
+[froxity@afiq-pc ~ ]$ |
 
 ```
 
