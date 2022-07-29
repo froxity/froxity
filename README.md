@@ -5,7 +5,7 @@
 
 ```bash
 [froxity@afiq-pc ~ ]$ ls /home/froxity/goals/
-freelance-graphic-designer            illustrator                           network-engineer
+freelance-graphic-designer  illustrator  network-engineer
 [froxity@afiq-pc ~ ]$ 
 [froxity@afiq-pc ~ ]$ 
 [froxity@afiq-pc ~ ]$ cat /home/froxity/hobby.txt
@@ -14,16 +14,16 @@ https://www.deviantart.com/nzon
 [froxity@afiq-pc ~ ]$
 [froxity@afiq-pc ~ ]$
 [froxity@afiq-pc ~ ]$ ls -l /home/froxity/skills/language/
--rw-rw-r-- 2 froxity froxity 80 July 26 2022 python
--rw-rw-r-- 2 froxity froxity 60 July 26 2022 java
--rw-rw-r-- 2 froxity froxity 80 July 26 2022 cplus2
--rw-rw-r-- 2 froxity froxity 30 July 26 2022 js
--rw-rw-r-- 2 froxity froxity 70 July 26 2022 html
--rw-rw-r-- 2 froxity froxity 65 July 26 2022 css
+-rw-rw-r-- 1 froxity froxity 80 July 26 2022 python
+-rw-rw-r-- 1 froxity froxity 60 July 26 2022 java
+-rw-rw-r-- 1 froxity froxity 80 July 26 2022 cplus2
+-rw-rw-r-- 1 froxity froxity 30 July 26 2022 js
+-rw-rw-r-- 1 froxity froxity 70 July 26 2022 html
+-rw-rw-r-- 1 froxity froxity 65 July 26 2022 css
 [froxity@afiq-pc ~ ]$
 [froxity@afiq-pc ~ ]$
 [froxity@afiq-pc ~ ]$ ls /home/froxity/skills/framework/
-django                                bootstrap
+django  bootstrap
 [froxity@afiq-pc ~ ]$
 [froxity@afiq-pc ~ ]$
 [froxity@afiq-pc ~ ]$ cat /home/froxity/skills/.devops/devops.md
@@ -31,11 +31,11 @@ docker
 [froxity@afiq-pc ~ ]$
 [froxity@afiq-pc ~ ]$
 [froxity@afiq-pc ~ ]$ ls /home/froxity/skills/editing/
--rw-rw-r-- 2 froxity froxity 70 July 26 2022 adobe-ps
--rw-rw-r-- 2 froxity froxity 50 July 26 2022 adobe-illustrator
--rw-rw-r-- 2 froxity froxity 60 July 26 2022 adobe-premiere-pro
--rw-rw-r-- 2 froxity froxity 80 July 26 2022 canva
--rw-rw-r-- 2 froxity froxity 90 July 26 2022 firealpaca
+-rw-rw-r-- 1 froxity froxity 70 July 26 2022 adobe-ps
+-rw-rw-r-- 1 froxity froxity 50 July 26 2022 adobe-illustrator
+-rw-rw-r-- 1 froxity froxity 60 July 26 2022 adobe-premiere-pro
+-rw-rw-r-- 1 froxity froxity 80 July 26 2022 canva
+-rw-rw-r-- 1 froxity froxity 90 July 26 2022 firealpaca
 [froxity@afiq-pc ~ ]$
 [froxity@afiq-pc ~ ]$
 [froxity@afiq-pc ~ ]$ cat << EOF > /home/froxity/skills/infra.txt
